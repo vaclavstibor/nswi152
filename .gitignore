@@ -1,0 +1,5 @@
+.DS_Store
+*.local.md
+todo_before_commit.md
+Lab7-Serverless/solution/*.py
+Lab7-Serverless/solution/logicapp.update.wrapper.json
