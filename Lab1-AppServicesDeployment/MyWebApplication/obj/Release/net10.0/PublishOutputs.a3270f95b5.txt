@@ -1,0 +1,7 @@
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/MyWebApplication
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/appsettings.Development.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/appsettings.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/MyWebApplication.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/MyWebApplication.deps.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/MyWebApplication.runtimeconfig.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab1-AppServicesDeployment/publish/MyWebApplication.pdb
