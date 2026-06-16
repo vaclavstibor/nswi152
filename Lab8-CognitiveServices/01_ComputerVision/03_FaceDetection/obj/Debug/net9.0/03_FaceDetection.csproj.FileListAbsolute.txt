@@ -1,0 +1,16 @@
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/03_FaceDetection
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/03_FaceDetection.dll.config
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/03_FaceDetection.deps.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/03_FaceDetection.runtimeconfig.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/03_FaceDetection.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/03_FaceDetection.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceDetection.csproj.AssemblyReference.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceDetection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceDetection.csproj.CoreCompileInputs.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceD.DF6E9AC4.Up2Date
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceDetection.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/refint/03_FaceDetection.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceDetection.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/03_FaceDetection.genruntimeconfig.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/03_FaceDetection/obj/Debug/net9.0/ref/03_FaceDetection.dll

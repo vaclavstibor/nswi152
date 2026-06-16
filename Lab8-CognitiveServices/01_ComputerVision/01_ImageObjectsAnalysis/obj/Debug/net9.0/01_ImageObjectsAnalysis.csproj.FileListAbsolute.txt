@@ -1,0 +1,16 @@
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/01_ImageObjectsAnalysis
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/01_ImageObjectsAnalysis.dll.config
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/01_ImageObjectsAnalysis.deps.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/01_ImageObjectsAnalysis.runtimeconfig.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/01_ImageObjectsAnalysis.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/01_ImageObjectsAnalysis.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_ImageObjectsAnalysis.csproj.AssemblyReference.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_ImageObjectsAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_ImageObjectsAnalysis.csproj.CoreCompileInputs.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_Image.FF1B5EA9.Up2Date
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_ImageObjectsAnalysis.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/refint/01_ImageObjectsAnalysis.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_ImageObjectsAnalysis.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/01_ImageObjectsAnalysis.genruntimeconfig.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/01_ImageObjectsAnalysis/obj/Debug/net9.0/ref/01_ImageObjectsAnalysis.dll

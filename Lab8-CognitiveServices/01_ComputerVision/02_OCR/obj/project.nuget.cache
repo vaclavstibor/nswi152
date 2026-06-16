@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rx/itJ8qafY=",
+  "success": true,
+  "projectFilePath": "/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab8-CognitiveServices/01_ComputerVision/02_OCR/02_OCR.csproj",
+  "expectedPackageFiles": [
+    "/Users/stiborv/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.netcore.app.ref/9.0.14/microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.14/microsoft.netcore.app.host.osx-arm64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
