@@ -1,0 +1,6 @@
+{
+  "$schema": "http://schemas.microsoft.com/azure/webjobs/publish/2015-08-01",
+  "webJobName": "MyWebJob",
+  "startOnDeploy": true,
+  "runCmd": "run.cmd"
+}
