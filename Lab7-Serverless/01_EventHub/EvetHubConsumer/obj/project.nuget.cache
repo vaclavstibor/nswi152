@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B66vtD8qzX0=",
+  "success": true,
+  "projectFilePath": "/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EvetHubConsumer/EvetHubConsumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/stiborv/.nuget/packages/azure.core/1.30.0/azure.core.1.30.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.core.amqp/1.3.0/azure.core.amqp.1.3.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.messaging.eventhubs/5.8.1/azure.messaging.eventhubs.5.8.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.azure.amqp/2.6.1/microsoft.azure.amqp.2.6.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

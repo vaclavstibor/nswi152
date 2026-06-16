@@ -1,0 +1,11 @@
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/bin/Debug/net10.0/EventHub.Config.deps.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/bin/Debug/net10.0/EventHub.Config.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/bin/Debug/net10.0/EventHub.Config.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/EventHub.Config.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/EventHub.Config.AssemblyInfoInputs.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/EventHub.Config.AssemblyInfo.cs
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/EventHub.Config.csproj.CoreCompileInputs.cache
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/EventHub.Config.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/refint/EventHub.Config.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/EventHub.Config.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHub.Config/obj/Debug/net10.0/ref/EventHub.Config.dll

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "igJbHmVo0K4=",
+  "success": true,
+  "projectFilePath": "/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/01_EventHub/EventHubSentimentConsumer/EventHubSentimentConsumer.csproj",
+  "expectedPackageFiles": [
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.ai.openai/2.1.0/azure.ai.openai.2.1.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.core.amqp/1.3.1/azure.core.amqp.1.3.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.messaging.eventhubs/5.11.5/azure.messaging.eventhubs.5.11.5.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/microsoft.azure.amqp/2.6.7/microsoft.azure.amqp.2.6.7.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/openai/2.1.0/openai.2.1.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.clientmodel/1.2.1/system.clientmodel.1.2.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.memory.data/6.0.0/system.memory.data.6.0.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOz6EzLkt3I=",
+  "success": true,
+  "projectFilePath": "/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab7-Serverless/02_ServiceBus/ServiceBus.csproj",
+  "expectedPackageFiles": [
+    "/Users/stiborv/.nuget/packages/azure.ai.openai/2.1.0/azure.ai.openai.2.1.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.core.amqp/1.3.1/azure.core.amqp.1.3.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.messaging.servicebus/7.18.4/azure.messaging.servicebus.7.18.4.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.azure.amqp/2.6.9/microsoft.azure.amqp.2.6.9.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/openai/2.1.0/openai.2.1.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.clientmodel/1.2.1/system.clientmodel.1.2.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.memory.data/6.0.0/system.memory.data.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
