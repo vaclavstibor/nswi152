@@ -1,0 +1,14 @@
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/MyWebApplication
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/appsettings.Development.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/appsettings.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/MyWebApplication.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/MyWebApplication.deps.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/MyWebApplication.runtimeconfig.json
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/MyWebApplication.pdb
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/Azure.Core.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/Azure.Storage.Blobs.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/Azure.Storage.Common.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/System.ClientModel.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/System.IO.Hashing.dll
+/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/publish/System.Memory.Data.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjsJVGKcTJw=",
+  "success": true,
+  "projectFilePath": "/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab3-AzureBlobStorage/MyWebApplication/MyWebApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/stiborv/.nuget/packages/azure.core/1.44.1/azure.core.1.44.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.storage.blobs/12.25.1/azure.storage.blobs.12.25.1.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/azure.storage.common/12.24.0/azure.storage.common.12.24.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.clientmodel/1.1.0/system.clientmodel.1.1.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/Users/stiborv/.nuget/packages/system.memory.data/6.0.0/system.memory.data.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
