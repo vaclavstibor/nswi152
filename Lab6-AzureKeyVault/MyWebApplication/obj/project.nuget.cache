@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5PuuLCJ/QA=",
+  "success": true,
+  "projectFilePath": "/Users/stiborv/Documents/NMgr/LS2526/NSWI152/Lab6-AzureKeyVault/MyWebApplication/MyWebApplication.csproj",
+  "expectedPackageFiles": [
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.core/1.51.1/azure.core.1.51.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.extensions.aspnetcore.configuration.secrets/1.4.0/azure.extensions.aspnetcore.configuration.secrets.1.4.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.identity/1.19.0/azure.identity.1.19.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.security.keyvault.secrets/4.6.0/azure.security.keyvault.secrets.4.6.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.storage.blobs/12.25.1/azure.storage.blobs.12.25.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/azure.storage.common/12.24.0/azure.storage.common.12.24.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/microsoft.bcl.asyncinterfaces/10.0.2/microsoft.bcl.asyncinterfaces.10.0.2.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/microsoft.identity.client/4.83.1/microsoft.identity.client.4.83.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/microsoft.identity.client.extensions.msal/4.83.1/microsoft.identity.client.extensions.msal.4.83.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.clientmodel/1.9.0/system.clientmodel.1.9.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.memory.data/10.0.1/system.memory.data.10.0.1.nupkg.sha512",
+    "/var/folders/h9/brqpqy9x10q4n_n6230q8s800000gn/T/cursor-sandbox-cache/d79f9b228c03136222e18f2e77bca60b/nuget/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

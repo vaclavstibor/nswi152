@@ -1,0 +1,50 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <div class="alert alert-secondary text-start mx-auto mb-4" style="max-width: 48rem;">
+        <p class="mb-2"><strong>Běžící prostředí:</strong> <code>@Model.EnvironmentLabel</code></p>
+        <p class="mb-2">
+            <strong>Key Vault (konfigurace z Azure / App Settings):</strong>
+            @(string.IsNullOrWhiteSpace(Model.KeyVaultUri) ? "—" : Model.KeyVaultUri)
+        </p>
+        <p class="mb-0">
+            <strong>Řádka načtená z konfigurace</strong>
+            @(Model.EnvironmentLabel == "Production"
+                ? " (v této aplikaci z online Key Vault, secret <code>Lab6--KvDemoBanner</code>)"
+                : " (tady lokálně z <code>appsettings.Development.json</code>; Key Vault se v Development nepřipojuje)"):<br />
+            <span class="fst-italic">@Model.KeyVaultBannerMessage</span>
+        </p>
+    </div>
+
+    <h1 class="display-4">Blob files</h1>
+    <p>Container: <strong>@Model.ContainerName</strong></p>
+
+    @if (Model.Blobs.Count == 0)
+    {
+        <p>No blobs found in the container.</p>
+    }
+    else
+    {
+        <table class="table table-striped table-hover text-start">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Download</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var blob in Model.Blobs)
+                {
+                    <tr>
+                        <td>@blob.Name</td>
+                        <td><a href="@blob.DownloadUrl">Download</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
