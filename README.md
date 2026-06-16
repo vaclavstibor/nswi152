@@ -2,6 +2,8 @@
 
 This repository contains the solutions for the NSWI152 Cloud Application Development course (Havit part).
 
+Each lab is in a separate folder and its solution is in the `solution` folder with recordings, screenshots, terminal outputs and a summary of the lab in README.
+
 ## Labs
 
 This repository:
